@@ -6,7 +6,7 @@ The hook document outlining the case study is the file labeled [CS3Hook_COI.pdf]
 
 ## Rubric.pdf
 The rubric document outlining the case study is the file labeled 
-[CS3Rubric_COI.pdf](). This document explains the purpose, task, and criteria. This is where the details live to answer questions and to describe what deliverables to produce.
+[CS3Rubric_COI.pdf](CS3Rubric_COI.pdf). This document explains the purpose, task, and criteria. This is where the details live to answer questions and to describe what deliverables to produce.
 
 ## Materials
 ### Code Example
