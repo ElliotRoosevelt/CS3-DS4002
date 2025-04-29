@@ -25,5 +25,5 @@ Acevedo-Garcia, D., DeVoe, B., Leonardos, M., Lu N., McArdle, N., Noelke, C., Re
 
 Atha, R. 2020, November 21. Multi-Linear Regression Using Python. Medium. https://www.diversitydatakids.org/research-library/data-visualization/racialethnic-inequity-100-largest-metro-areas
 
-* Extra
+Extra:
 What is child opportunity. 2024, March 8. https://www.diversitydatakids.org/research-library/research-brief/what-child-opportunity 
