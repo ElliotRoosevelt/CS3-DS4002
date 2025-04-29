@@ -2,7 +2,7 @@
 ### A DS4002 Case Study by Elle Park 
 
 ## Hook.pdf
-The hook document outlining the case study is the file labeled [CS3Hook_COI.pdf](). This document is made to give an overview of the topic/context/motivation. And indicate the deliverables the student is to produce. It also contains a link to this repository. 
+The hook document outlining the case study is the file labeled [CS3Hook_COI.pdf](CS3Hook_COI.pdf). This document is made to give an overview of the topic/context/motivation. And indicate the deliverables the student is to produce. It also contains a link to this repository. 
 
 ## Rubric.pdf
 The rubric document outlining the case study is the file labeled 
