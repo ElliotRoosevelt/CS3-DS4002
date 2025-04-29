@@ -10,7 +10,8 @@ The rubric document outlining the case study is the file labeled
 
 ## Materials
 ### Code Example
-This contains the .pynb file of an example of our analysis called [Richmond_COI_Inequality.ipynb](https://github.com/ElliotRoosevelt/CS3-DS4002/tree/main/MATERIALS/CODE%20EXAMPLE). 
+This folder contains a [
+/First_FinalMERGERichmond.R](https://github.com/ElliotRoosevelt/CS3-DS4002/blob/main/MATERIALS/CODE%20EXAMPLE/First_FinalMERGERichmond.R)that goes through how to merge the population demographic dataframe with a separate COI dataframe to get your final cleaned dataset. This contains the .pynb file of an example of our analysis called [Richmond_COI_Inequality.ipynb](https://github.com/ElliotRoosevelt/CS3-DS4002/tree/main/MATERIALS/CODE%20EXAMPLE). 
 
 ### Initial Dataset
 You can find the link to the Google Drive containing the initial dataset called [How To Obtain Initial Dataset](https://github.com/ElliotRoosevelt/CS3-DS4002/tree/main/MATERIALS/INITIAL%20DATASET) here. However, you can access that link [here](https://drive.google.com/drive/folders/1Y5bCtBVGn-IfO6hbN7QwIKEQhk-E9BRk?usp=sharing). 
